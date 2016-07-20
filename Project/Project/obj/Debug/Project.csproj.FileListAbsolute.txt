@@ -10,3 +10,15 @@ c:\users\recett\documents\visual studio 2015\Projects\Project\Project\obj\Debug\
 C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\bin\Debug\Project.exe.config
 C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.exe
 C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.pdb
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\bin\Debug\Project.exe
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\bin\Debug\Project.pdb
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.AddAcc.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.AddHotel.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.AddNewRoom.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.AddRoomType.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.PrintSummary.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.UpdateRoomPrice.resources
+C:\Users\Recett\Documents\Visual Studio 2015\Projects\C-Project\trunk\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
